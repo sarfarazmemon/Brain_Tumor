@@ -1,1 +1,2 @@
-# Brain_Tumor
+# Brain_Tumor_Detection
+A brain tumor (BT) is an abnormal tissue where cells multiply quickly and indefinitely without controlling tumor growth. The difficulties in identifying and treating brain tumors have been said to be willing to deep learning. It is generally known that the segmentation method, one of the greatest sophisticated classification and identification methods may be used to eliminate aberrant tumor areas from the brain. Using reliable cutting-edge artificial intelligence, and neural network classification methods, early illness diagnosis for brain tumors may be accomplished successfully
